@@ -1,0 +1,187 @@
+.art-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #101013, rgba(25, 27, 31, 0.86));
+  width: 1280px;
+  height: 1024px;
+}
+.art-and-animation {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 215px);
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 431px;
+  height: 54px;
+  text-shadow: -5px 3px 3px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.art-item {
+  position: absolute;
+  top: 104.23px;
+  left: calc(50% - 284.77px);
+  width: 569.55px;
+  height: 19.55px;
+}
+.painting {
+  position: absolute;
+  top: 214px;
+  left: 0;
+  display: inline-block;
+  width: 185px;
+  height: 62.42px;
+}
+.image-11-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 160px;
+  height: 207px;
+  object-fit: cover;
+}
+.painting-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 161px;
+  left: 122px;
+  width: 185px;
+  height: 276.42px;
+  color: inherit;
+}
+.sculpture {
+  position: absolute;
+  top: 203.23px;
+  left: 31.37px;
+  display: inline-block;
+  width: 173.58px;
+  height: 45.77px;
+}
+.image-13-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 196.33px;
+  height: 182.74px;
+  object-fit: cover;
+}
+.sculpture-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 168px;
+  left: 888px;
+  width: 204.96px;
+  height: 249px;
+  color: inherit;
+}
+.d-animation {
+  position: absolute;
+  top: 184px;
+  left: 0;
+  display: inline-block;
+  width: 240px;
+  height: 52.55px;
+}
+.image-15-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 198.16px;
+  height: 177.71px;
+  object-fit: cover;
+}
+.d-animation-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 427px;
+  left: 746px;
+  width: 240px;
+  height: 236.55px;
+  color: inherit;
+}
+.video-editing {
+  position: absolute;
+  top: 159px;
+  left: 25px;
+  display: inline-block;
+  width: 254px;
+  height: 50.89px;
+}
+.image-14-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 350px;
+  height: 142px;
+  object-fit: cover;
+}
+.video-editing-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 270px;
+  left: 0;
+  width: 350px;
+  height: 209.89px;
+  color: inherit;
+}
+.sketch {
+  position: absolute;
+  top: 187.74px;
+  left: 24.71px;
+  display: inline-block;
+  width: 130.43px;
+  height: 55.22px;
+}
+.image-12-icon,
+.sketch-parent {
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+.image-12-icon {
+  left: 0;
+  height: 162.3px;
+  object-fit: cover;
+}
+.sketch-parent {
+  text-decoration: none;
+  left: 263px;
+  height: 242.95px;
+  color: inherit;
+}
+.art-inner,
+.group-parent,
+.vector-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 436px;
+  height: 479.89px;
+}
+.art-inner,
+.vector-icon2 {
+  top: 184px;
+  left: 235px;
+}
+.vector-icon2 {
+  height: 7.63%;
+  width: 3.45%;
+  top: 7.88%;
+  right: 91.45%;
+  bottom: 84.49%;
+  left: 5.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.art {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 680px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

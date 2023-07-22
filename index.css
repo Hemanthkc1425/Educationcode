@@ -1,0 +1,300 @@
+.index-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #101013, rgba(25, 27, 31, 0.86));
+  width: 1280px;
+  height: 1416px;
+}
+.e-learning {
+  position: absolute;
+  top: 20px;
+  left: calc(50% - 280px);
+  font-size: 96px;
+  display: inline-block;
+  width: 559px;
+  height: 99px;
+}
+.unlock-your-potential {
+  margin: 0;
+}
+.unlock-your-potential-container {
+  position: absolute;
+  top: 157px;
+  left: calc(50% - 344px);
+  color: #b4b4b4;
+  text-align: center;
+  display: inline-block;
+  width: 688px;
+  height: 103px;
+}
+.group-child3,
+.rectangle-icon {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-14xl);
+  width: 511px;
+}
+.rectangle-icon {
+  top: 0.38px;
+  height: 772.62px;
+  object-fit: cover;
+}
+.group-child3 {
+  top: 0;
+  background-color: rgba(19, 20, 24, 0.6);
+  height: 773px;
+}
+.code-your-way {
+  position: absolute;
+  top: 227px;
+  left: 29px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 477px;
+  height: 127.58px;
+}
+.programming-and-development1,
+.unlock-your-coding {
+  position: absolute;
+  top: 366.48px;
+  left: 26px;
+  display: inline-block;
+  width: 469px;
+  height: 274.18px;
+}
+.programming-and-development1 {
+  top: 30.49px;
+  left: 25.55px;
+  width: 438px;
+  height: 60.22px;
+}
+.rectangle-parent3 {
+  text-decoration: none;
+  position: absolute;
+  top: 288px;
+  left: 22px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), -8px 9px 4px rgba(0, 0, 0, 0.25);
+  width: 511px;
+  height: 773px;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+  color: inherit;
+}
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-15xl);
+}
+.group-child4 {
+  left: -4px;
+  width: 332px;
+  height: 379.65px;
+  object-fit: cover;
+}
+.group-child5 {
+  left: 0;
+  background-color: rgba(24, 23, 23, 0.7);
+  width: 324px;
+  height: 371.65px;
+}
+.science-and-technology1,
+.unleashing-the-power-container {
+  position: absolute;
+  top: 187px;
+  left: 22px;
+  display: inline-block;
+  width: 256px;
+  height: 175.13px;
+}
+.science-and-technology1 {
+  top: 23.77px;
+  left: 14px;
+  width: 281px;
+  height: 21.4px;
+}
+.rectangle-parent4 {
+  text-decoration: none;
+  position: absolute;
+  top: 286px;
+  left: 571px;
+  box-shadow: -11px 4px 4px rgba(0, 0, 0, 0.25), 0 12px 3px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 371.65px;
+  color: inherit;
+}
+.group-child6 {
+  object-fit: cover;
+}
+.group-child6,
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-15xl);
+  width: 324px;
+  height: 371.65px;
+}
+.discover-the-beauty,
+.languages1 {
+  position: absolute;
+  top: 183.42px;
+  left: 27px;
+  display: inline-block;
+  width: 256px;
+  height: 175.13px;
+}
+.languages1 {
+  top: 24.57px;
+  width: 281px;
+  height: 21.4px;
+}
+.group-child8,
+.rectangle-parent5 {
+  position: absolute;
+  width: 324px;
+  height: 371.65px;
+}
+.rectangle-parent5 {
+  text-decoration: none;
+  top: 287.58px;
+  left: 934px;
+  box-shadow: -10px 4px 4px rgba(0, 0, 0, 0.25), 0 10px 4px rgba(0, 0, 0, 0.25);
+  color: inherit;
+}
+.group-child8 {
+  top: 0;
+  left: 1px;
+  border-radius: var(--br-15xl);
+  object-fit: cover;
+}
+.arts-and-animation,
+.discover-the-palette {
+  position: absolute;
+  top: 214.65px;
+  left: 31px;
+  display: inline-block;
+  width: 293px;
+  height: 156.9px;
+}
+.arts-and-animation {
+  top: 20.6px;
+  left: 34px;
+  width: 245px;
+  height: 67.36px;
+}
+.rectangle-parent6 {
+  text-decoration: none;
+  position: absolute;
+  top: 689.35px;
+  left: 570px;
+  box-shadow: -9px 4px 4px rgba(0, 0, 0, 0.25), 0 12px 4px rgba(0, 0, 0, 0.25);
+  width: 325px;
+  height: 371.65px;
+  color: inherit;
+}
+.finance-and-invest,
+.strategic-solutions-for {
+  position: absolute;
+  top: 208.65px;
+  left: 21px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 281px;
+  height: 156.9px;
+}
+.finance-and-invest {
+  top: 18.23px;
+  left: 35px;
+  width: 230px;
+  height: 21.4px;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 689.35px;
+  left: 933px;
+  box-shadow: -9px 4px 4px rgba(0, 0, 0, 0.25), 0 12px 4px rgba(0, 0, 0, 0.25);
+  width: 325px;
+  height: 371.65px;
+}
+.index-item {
+  position: absolute;
+  top: 1191px;
+  left: 0;
+  background-color: #28292c;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1280px;
+  height: 225px;
+}
+.material-symbolscall-icon {
+  position: absolute;
+  top: 1300px;
+  left: 961px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.elearning20gmailcom,
+.h6 {
+  margin: 0;
+  position: absolute;
+  top: 1304px;
+  left: 1017px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: inherit;
+}
+.elearning20gmailcom {
+  top: 1347px;
+}
+.codiconmail,
+.vector-icon4 {
+  position: absolute;
+  top: 1317px;
+  left: 1049px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.vector-icon4 {
+  height: 1.41%;
+  width: 2.19%;
+  top: 95.13%;
+  right: 22.34%;
+  bottom: 3.46%;
+  left: 75.47%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.e-learning-rights-reserved {
+  margin: 0;
+  position: absolute;
+  top: 1366px;
+  left: 26px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  color: #1e1e1e;
+  display: inline-block;
+  width: 559px;
+  height: 45px;
+}
+.index1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1416px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

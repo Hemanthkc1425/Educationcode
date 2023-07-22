@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-mulish: Mulish;
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #242424;
+
+  /* border radiuses */
+  --br-33xl: 52px;
+  --br-15xl: 34px;
+  --br-14xl: 33px;
+}
